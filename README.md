@@ -31,10 +31,10 @@ To address this, a **Service Catalog Item** needs to be created that:
 | Role | Name |
 |------|------|
 | 👨‍💼 Team Leader | Koyyana Suryakiran |
-| 👨‍💻 Team Member | Vaddadi Mohan Sai |
-| 👨‍💻 Team Member | Ajit Pandirnik |
-| 👨‍💻 Team Member | Javvadi Venkata Rama Krishna |
 | 👨‍💻 Team Member | Kotaparthi Sai Gopal |
+| 👨‍💻 Team Member | Javvadi Venkata Rama Krishna |
+| 👨‍💻 Team Member | Ajit Pandirnik |
+| 👨‍💻 Team Member | Vaddadi Mohan Sai |
 
 ### 🆔 Team ID
 **LTVIP2026TMIDS87197**
